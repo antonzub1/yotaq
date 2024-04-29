@@ -1,5 +1,7 @@
 # yotaq - Your Own Task Queue for Python
 
+Inspired by [this post] (https://news.ycombinator.com/item?id=14556988)
+
 So you need a task queue for your Python project. Sure you could check [celery](http://www.celeryproject.org/), and after three months trying to understand the basic configuration options you'll be good to go. Or you could use a simpler task queue like [huey](https://github.com/coleifer/huey) or [rq](http://python-rq.org/).
 
 Why don't you try building **your own** task queue? Well, now you can!
